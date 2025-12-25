@@ -1,3 +1,5 @@
+# Part of the [CursorCult](https://github.com/CursorCult)
+
 # UMP
 
 The UNDERSCORE‑MEANS‑PRIVATE Rule: any name starting with `_` is private.
